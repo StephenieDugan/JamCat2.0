@@ -354,9 +354,21 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 556577736764170971, guid: 3c35e235d4600d244b906115a4c3705a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -12.4
+      objectReference: {fileID: 0}
     - target: {fileID: 938705805562980802, guid: 3c35e235d4600d244b906115a4c3705a, type: 3}
       propertyPath: m_Name
       value: LevelPrefab
+      objectReference: {fileID: 0}
+    - target: {fileID: 1550899682920235229, guid: 3c35e235d4600d244b906115a4c3705a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 8.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4351719667510005123, guid: 3c35e235d4600d244b906115a4c3705a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -7.4
       objectReference: {fileID: 0}
     - target: {fileID: 7427382475451286876, guid: 3c35e235d4600d244b906115a4c3705a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -397,6 +409,10 @@ PrefabInstance:
     - target: {fileID: 7427382475451286876, guid: 3c35e235d4600d244b906115a4c3705a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7597818467057216117, guid: 3c35e235d4600d244b906115a4c3705a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 4.6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
